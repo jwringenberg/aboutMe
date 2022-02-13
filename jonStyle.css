@@ -1,0 +1,92 @@
+@font-face {
+  font-family: "block";
+  src: url("fonts/DoHyeon.ttf");
+}
+
+.logos{
+  width: 60px;
+  height: 90px;
+}
+.hlogos{
+  width: 90px;
+  height: 90px;
+}
+.clogos{
+  width: 80px;
+  height: 80px;
+}
+.blogos{
+  width: 90px;
+  height: 80px;
+}
+.qlogos{
+  width: 120px;
+  height: 90px;
+}
+.jlogos{
+  width: 160px;
+  height: 90px;
+}
+.nlogos{
+  width: 140px;
+  height: 70px;
+}
+#line{
+     width: 75%;
+     border-bottom: 2px solid  #6699CC;
+     margin-bottom: 10px;
+}
+#line2{
+  width: 75%;
+  border-bottom: 3px solid  #6699CC;
+  margin-bottom: 10px;
+}
+#line3{
+  width: 75%;
+  border-bottom: 2px solid  grey;
+  margin-bottom: 10px;
+}
+h1{
+    font-family: "block";
+    padding-top: 10px;
+    font-size: 50px;
+    height: 80px;
+}
+h2{
+  padding-right: 5px;
+  padding-top: 20px;
+  font-family: "block";
+  font-size: 20px;
+  width: 100%;
+}
+h3{
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-top: 7px;
+  font-family: "block";
+  font-size: 15px;
+  width: 70%;
+}
+h3:hover{
+    background-color: #FFE135 ;
+}
+div{
+  padding: 0px;
+}
+.subInfo{
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+.col-sm-2{
+  border-right: 3px solid grey;
+}
+#right{
+    border-left: 3px solid grey;
+      border-right: none;
+}
+.preview{
+  height: 150px;
+  width: 250px;
+  /*border: 2px solid black;*/
+}
