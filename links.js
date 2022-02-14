@@ -1,3 +1,3 @@
-$('h2').click(function(){
-    //do something on click
+$('exOne').click(function(){
+    window.location = "https://github.com/jwringenberg/car";
 });
