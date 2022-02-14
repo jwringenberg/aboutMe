@@ -12,6 +12,6 @@ $(document).ready(function(){
 
 $(document).ready(function(){
   $('#exThree').click(function(){
-    window.location = "https://github.com/jwringenberg/IANServer";
+    window.location = "https://github.com/jwringenberg/EducationAppTestRepo";
   });
 });
