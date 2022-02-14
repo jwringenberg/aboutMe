@@ -68,7 +68,7 @@ h3{
   padding-bottom: 5px;
   padding-right: 5px;
   padding-top: 7px;
-  font-size: 35px;
+  font-size: 30px;
   width: 70%;
 }
 h3:hover{
@@ -105,27 +105,3 @@ div{
   width: 250px;
   /*border: 2px solid black;*/
 }
-/*#exOne{
-   font-family: sans-serif;
-  padding-bottom: 5px;
-  padding-right: 5px;
-  padding-top: 7px;
-  font-size: 15px;
-  width: 70%;
-}
-#exTwo{
-   font-family: sans-serif;
-  padding-bottom: 5px;
-  padding-right: 5px;
-  padding-top: 7px;
-  font-size: 15px;
-  width: 70%;
-}
-#exThree{
-   font-family: sans-serif;
-  padding-bottom: 5px;
-  padding-right: 5px;
-  padding-top: 7px;
-  font-size: 15px;
-  width: 70%;
-}*/
