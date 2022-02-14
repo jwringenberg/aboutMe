@@ -12,6 +12,6 @@ $(document).ready(function(){
 
 $(document).ready(function(){
   $('#exThree').click(function(){
-    window.location = "https://jwringenberg.github.io/Mind-Ladder/";
+    window.location = "https://github.com/jwringenberg/IANServer";
   });
 });
