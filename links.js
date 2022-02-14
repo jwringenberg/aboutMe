@@ -1,11 +1,11 @@
-$('exOne').click(function(){
+$('$exOne').click(function(){
     window.location = "https://github.com/jwringenberg/car";
 });
 
-$('exTwo').click(function(){
+$('$exTwo').click(function(){
     window.location = "https://jwringenberg.github.io/Mind-Ladder/";
 });
 
-$('exThree').click(function(){
+$('$exThree').click(function(){
     window.location = "https://jwringenberg.github.io/Mind-Ladder/";
 });
