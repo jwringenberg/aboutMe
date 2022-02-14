@@ -1,14 +1,17 @@
-
- $("#exOne").on("click", function(){
-       // window.location = "https://github.com/jwringenberg/car";
-       alert();
- });
-
-
-$('#exTwo').click(function(){
+$(document).ready(function(){
+  $('#exTwo').click(function(){
+    window.location = "https://github.com/jwringenberg/car";
+   });
+});
+ 
+$(document).ready(function(){
+  $('#exTwo').click(function(){
     window.location = "https://jwringenberg.github.io/Mind-Ladder/";
+  });
 });
 
-$('#exThree').click(function(){
+$(document).ready(function(){
+  $('#exThree').click(function(){
     window.location = "https://jwringenberg.github.io/Mind-Ladder/";
+  });
 });
