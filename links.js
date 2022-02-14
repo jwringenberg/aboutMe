@@ -1,7 +1,8 @@
 
-$('#exOne').click(function(){
-    window.location = "https://github.com/jwringenberg/car";
-});
+ $("#exOne").on("click", function(){
+        window.location = "https://github.com/jwringenberg/car";
+ });
+
 
 $('#exTwo').click(function(){
     window.location = "https://jwringenberg.github.io/Mind-Ladder/";
