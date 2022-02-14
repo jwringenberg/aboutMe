@@ -1,6 +1,7 @@
 
  $("#exOne").on("click", function(){
-        window.location = "https://github.com/jwringenberg/car";
+       // window.location = "https://github.com/jwringenberg/car";
+       alert();
  });
 
 
