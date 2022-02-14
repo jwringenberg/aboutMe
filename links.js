@@ -1,6 +1,7 @@
 $(document).ready(function(){
-  $('#exTwo').click(function(){
-    window.location = "https://github.com/jwringenberg/car";
+  $('#exOne').click(function(){
+    //window.location = "https://github.com/jwringenberg/car";
+    alert();
    });
 });
  
