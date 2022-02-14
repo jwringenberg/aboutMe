@@ -81,6 +81,13 @@ h4{
 div{
   padding: 0px;
 }
+.subTitle{
+  font-family: sans-serif;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-top: 7px;
+  font-size: 15px;
+}
 .subInfo{
   font-family: sans-serif;
   font-size: 14px;
@@ -97,4 +104,28 @@ div{
   height: 150px;
   width: 250px;
   /*border: 2px solid black;*/
+}
+#exOne{
+   font-family: sans-serif;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-top: 7px;
+  font-size: 15px;
+  width: 70%;
+}
+#exTwo{
+   font-family: sans-serif;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-top: 7px;
+  font-size: 15px;
+  width: 70%;
+}
+#exThree{
+   font-family: sans-serif;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-top: 7px;
+  font-size: 15px;
+  width: 70%;
 }
